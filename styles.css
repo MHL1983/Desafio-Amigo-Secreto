@@ -1,7 +1,7 @@
 :root {
     /* Colores */
-    --color-primary: #212121;
-    --color-secondary: linear-gradient(#212121, #212121) padding-box, linear-gradient(#e81cff, #40c9ff) border-box;
+    --color-primary: #0d1117;
+    --color-secondary: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(#e81cff, #40c9ff) border-box;
     --color-button: #9572ff; 
     --color-button-hover: #8c7bff;
     --color-button-disabled: #444444;
